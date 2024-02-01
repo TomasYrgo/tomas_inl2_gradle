@@ -1,0 +1,17 @@
+-classpath 'C:\\yrgo\\utvecklingsverktyg\\library\\tomas_inl2_gradle\\library\\build\\classes\\java\\main;C:\\yrgo\\utvecklingsverktyg\\library\\tomas_inl2_gradle\\library\\build\\resources\\main'
+-d 'C:\\yrgo\\utvecklingsverktyg\\library\\tomas_inl2_gradle\\library\\build\\docs\\javadoc'
+-doctitle 'library 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'library 1.0-SNAPSHOT API'
+'C:\\yrgo\\utvecklingsverktyg\\library\\tomas_inl2_gradle\\library\\src\\main\\java\\models\\Book.java'
+'C:\\yrgo\\utvecklingsverktyg\\library\\tomas_inl2_gradle\\library\\src\\main\\java\\models\\BookCatalog.java'
+'C:\\yrgo\\utvecklingsverktyg\\library\\tomas_inl2_gradle\\library\\src\\main\\java\\models\\BookNotFoundException.java'
+'C:\\yrgo\\utvecklingsverktyg\\library\\tomas_inl2_gradle\\library\\src\\main\\java\\models\\Customer.java'
+'C:\\yrgo\\utvecklingsverktyg\\library\\tomas_inl2_gradle\\library\\src\\main\\java\\models\\Loan.java'
+'C:\\yrgo\\utvecklingsverktyg\\library\\tomas_inl2_gradle\\library\\src\\main\\java\\models\\LoanAlreadyExistsException.java'
+'C:\\yrgo\\utvecklingsverktyg\\library\\tomas_inl2_gradle\\library\\src\\main\\java\\models\\LoanNotFoundException.java'
+'C:\\yrgo\\utvecklingsverktyg\\library\\tomas_inl2_gradle\\library\\src\\main\\java\\models\\Material.java'
+'C:\\yrgo\\utvecklingsverktyg\\library\\tomas_inl2_gradle\\library\\src\\main\\java\\ui\\Main.java'
+'C:\\yrgo\\utvecklingsverktyg\\library\\tomas_inl2_gradle\\library\\src\\main\\java\\utilities\\GenderType.java'
+'C:\\yrgo\\utvecklingsverktyg\\library\\tomas_inl2_gradle\\library\\src\\main\\java\\utilities\\LoanStatus.java'
