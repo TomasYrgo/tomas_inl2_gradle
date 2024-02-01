@@ -11,6 +11,11 @@ repositories {
 
 defaultTasks 'clean' , 'compileJava' , 'test' , 'javadoc'
 
+jar {
+    manifest {
+        attributes 'Main-Class': 'ui.Main'
+    }
+}
 
 dependencies {
     testImplementation platform('org.junit:junit-bom:5.9.1')
